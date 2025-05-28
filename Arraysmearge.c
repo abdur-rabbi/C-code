@@ -1,3 +1,5 @@
+                                                             /*array mearge*/
+
 #include<stdio.h>
 int main()
 {
