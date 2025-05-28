@@ -1,2 +1,2 @@
 # C-code
-You can see all my code about C language 
+You can see my all code about C language 
